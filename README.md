@@ -1,7 +1,7 @@
 ### Hi guys 👋
 I'm Isaac Allef, developer, working over Node.js, Reac.js and React Native ecosystem.
 - 🔭 I’m currently working on my bachelor's degree final project.
-- 🌱 I’m currently learning Next.js, Typescript, refactoring and clean code.
+- 🌱 I’m currently learning Next.js, Typescript, refactoring, clean code and DDD.
 - 📫 How to reach me: isaac_allef@hotmail.com
 - Take a look at my repositories and see some projects I did. :wink:
 <!--
