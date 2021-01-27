@@ -3,7 +3,7 @@ I'm Isaac Allef, developer, working over Node.js, Reac.js and React Native ecosy
 - 🔭 I’m currently working on my bachelor's degree final project.
 - 🌱 I’m currently learning Next.js, Typescript, refactoring, clean code and DDD.
 - 📫 How to reach me: isaac_allef@hotmail.com
-- Take a look at my repositories and see some projects I did. :wink:
+- Take a look at my repositories and see some projects I working on. :wink:
 <!--
 **isaac-allef/isaac-allef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
