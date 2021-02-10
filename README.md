@@ -1,9 +1,18 @@
-### Hi guys 👋
-I'm Isaac Allef, developer, working over Node.js, Reac.js and React Native ecosystem.
-- 🔭 I’m currently working on my bachelor's degree final project.
-- 🌱 I’m currently learning Next.js, Typescript, refactoring, clean code and DDD.
-- 📫 How to reach me: isaac_allef@hotmail.com
-- Take a look at my repositories and see some projects I working on. :wink:
+
+### ⚡ Hi there, I'm Isaac Allef && I'm a Software Developer
+My learning is based on creating projects to solve little problems and then join my knowledges to solve biggest problems. I strive to improve the readability and quality of my codes every day because I know that it will make me a coder better. But I also strive to improve my soft skills because it will make me a solver problems better.
+
+### :mortar_board: Learning about
+- Refactoring
+- Clean code
+- Domain driven design
+- Test driven development
+
+I'm also reviewing data structure and algorithms.
+
+### Do you want to reach me?
+- 📫 Send me a email: isaac_allef@hotmail.com
+- 🐦️ Or @ me on [Twitter](https://twitter.com/AllefIsaac)
 <!--
 **isaac-allef/isaac-allef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
