@@ -1,14 +1,23 @@
 
 ### ⚡ Hi there, I'm Isaac Allef && I'm a Software Developer
-My learning is based on creating projects to solve little problems and then join my knowledges to solve biggest problems. I strive to improve the readability and quality of my codes every day because I know that it will make me a coder better. But I also strive to improve my soft skills because it will make me a solver problems better.
+My learning is based on creating projects to solve little problems and then join my knowledges to solve biggest problems. 
+
+I strive to improve the readability and quality of my codes every day because I know that it will make me a coder better. But I also strive to improve my soft skills because it will make me a solver problems better.
 
 ### :mortar_board: Learning about
-- Refactoring
-- Clean code
-- Domain driven design
-- Test driven development
+- Refactoring.
+- Clean code.
+- Domain driven design.
+- Test driven development.
 
 I'm also reviewing data structure and algorithms.
+
+## :telescope: My latest goals
+- Do at least one commit per day.
+- Help the community.
+- Gain more experience.
+- Work.
+- Keep learning.
 
 ### Do you want to reach me?
 - 📫 Send me a email: isaac_allef@hotmail.com
