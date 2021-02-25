@@ -1,6 +1,6 @@
 
 ### ⚡ Hi there, I'm Isaac Allef && I'm a Software Developer
-My learning is based on creating projects to solve little problems and then join my knowledges to solve biggest problems. 
+My learning is based on creating projects to solve little problems and then combine my knowledges to solve bigger problems. 
 
 I strive to improve the readability and quality of my codes every day because I know that it will make me a coder better. But I also strive to improve my soft skills because it will make me a solver problems better.
 
