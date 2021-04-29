@@ -5,10 +5,10 @@ My learning is based on creating projects to solve little problems and then comb
 I strive to improve the readability and quality of my codes every day because I know that it will make me a coder better. But I also strive to improve my soft skills because it will make me a solver problems better.
 
 ### :mortar_board: Learning about
-- Refactoring.
 - Clean code.
-- Domain driven design.
+- Clean architecture.
 - Test driven development.
+- Refactoring.
 
 I'm also reviewing data structure and algorithms.
 
