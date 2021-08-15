@@ -1,27 +1,19 @@
 
-### ⚡ Hi there, I'm Isaac Allef && I'm a Software Developer
-My learning is based on creating projects to solve little problems and then combine my knowledges to solve bigger problems. 
+### Hi there, I'm Isaac Allef && I'm a Software Developer
 
-I strive to improve the readability and quality of my codes every day because I know that it will make me a coder better. But I also strive to improve my soft skills because it will make me a solver problems better.
+> I love to code using clean code and design patterns. My learning is based on creating projects to solve little problems and then combine my knowledges to solve bigger problems.
 
-### :mortar_board: Learning about
-- Clean code.
-- Clean architecture.
-- Test driven development.
-- Refactoring.
+#### My strength knowledges are related to:
+- Typescript, Javascript, Python
+- Node.js, Express.js, Jest
+- React, Next.js, Chakra-UI
+- Typeorm, Knex.js, SQL
+- Git, SSH
+- Linux (Debian e Ubuntu), Computer network
 
-I'm also reviewing data structure and algorithms.
-
-## :telescope: My latest goals
-- Do at least one commit per day.
-- Help the community.
-- Gain more experience.
-- Work.
-- Keep learning.
-
-### Do you want to reach me?
+#### Do you want to reach me?
 - 📫 Send me a email: isaac_allef@hotmail.com
-- 🐦️ Or @ me on [Twitter](https://twitter.com/AllefIsaac)
+
 <!--
 **isaac-allef/isaac-allef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
