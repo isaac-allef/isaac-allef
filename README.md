@@ -3,6 +3,7 @@
 
 > I love to code using clean code and design patterns. My learning is based on creating projects to solve little problems and then combine my knowledges to solve bigger problems.
 
+<!--
 #### My strength knowledges are related to:
 - Typescript, Javascript, Python
 - Node.js, Express.js, Jest
@@ -10,7 +11,7 @@
 - Typeorm, Knex.js, SQL
 - Git, SSH
 - Linux (Debian e Ubuntu), Computer network
-
+-->
 #### Do you want to reach me?
 - 📫 Send me a email: isaac_allef@hotmail.com
 
